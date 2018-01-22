@@ -60,6 +60,11 @@ This app uses The Movie Database API to retrieve movies. You must provide your o
 ![Image of TMDB](https://assets.tmdb.org/images/logos/var_1_0_PoweredByTMDB_Blk_Antitled.png)
 
 ## Project License
+
+GNU General Public License v3.0
+
+## Other open source Licenses
+
 ```
 Copyright (C) 2017 Anupam Das
 
@@ -75,7 +80,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-## Other open source Licenses
 
 ### Android source code
 ```
